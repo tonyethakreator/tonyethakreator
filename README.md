@@ -29,6 +29,14 @@ Currently studying Computer Science at the **University of Port Harcourt**.
 - **TradePro** — Trading and portfolio management web application.
 - **Sendaa** — Email delivery platform.
 
+### GitHub Activity
+
+<div align="center">
+
+[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=tonyethakreator&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&hide_border=true)](https://github.com/tonyethakreator)
+
+</div>
+
 ### What I'm focused on
 
 Building useful products, improving my engineering skills, and sharing what I learn along the way.
