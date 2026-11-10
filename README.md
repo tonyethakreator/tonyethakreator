@@ -25,7 +25,7 @@ Currently studying Computer Science at the **University of Port Harcourt**.
 
 ### Selected Projects
 
-- **[Posti](https://sendposti.online)** — A platform for sending and managing email campaigns.
+- **[Posti](https://sendposti.online)** — A shipping company providing delivery and logistics services.
 - **[Sendaa](https://sendaa.online)** — An email delivery platform.
 - **[InfraPilot](https://infrapilott.vercel.app)** — Construction project management and field reporting platform.
 
