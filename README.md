@@ -25,9 +25,9 @@ Currently studying Computer Science at the **University of Port Harcourt**.
 
 ### Selected Projects
 
-- **InfraPilot** — Construction project management and field reporting platform.
-- **TradePro** — Trading and portfolio management web application.
-- **Sendaa** — Email delivery platform.
+- **[Posti](https://sendposti.online)** — A platform for sending and managing email campaigns.
+- **[Sendaa](https://sendaa.online)** — An email delivery platform.
+- **[InfraPilot](https://infrapilott.vercel.app)** — Construction project management and field reporting platform.
 
 ### GitHub Activity
 
