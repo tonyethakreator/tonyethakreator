@@ -31,11 +31,7 @@ Currently studying Computer Science at the **University of Port Harcourt**.
 
 ### GitHub Activity
 
-<div align="center">
-
-[![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=tonyethakreator&bg_color=00000000&color=888888&line=888888&point=ffffff&area=true&hide_border=true)](https://github.com/tonyethakreator)
-
-</div>
+[View my contribution history and recent activity on GitHub →](https://github.com/tonyethakreator?tab=overview)
 
 ### What I'm focused on
 
