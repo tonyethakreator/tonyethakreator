@@ -1,13 +1,44 @@
-👋 Hey there, **I’m TONYE**  
-🎨 **UI/UX Designer | Frontend Dev | Digital Creator**  
+<div align="center">
 
-🌟 Welcome to my creative space! Here’s what I bring to the table:  
+# TONYE
 
-- 🎨 **UI/UX Design** – Crafting smooth, intuitive, and stunning interfaces  
-- 💻 **Frontend Dev** – Turning ideas into functional, sleek web experiences  
-- 🖌️ **Creative Tools** – Mastering **Figma, Trae, Photoshop, and Canva**  
+**Full-Stack Developer · MERN Stack · Building for the web**
 
-<!---
-illegaltonye/illegaltonye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Portfolio](https://tonyethakreator.online) · [GitHub](https://github.com/tonyethakreator) · [LinkedIn](https://linkedin.com/in/tonyethakreator) · [X](https://x.com/tonyethakreator) · [Email](mailto:tonye.official@gmail.com)
+
+</div>
+
+---
+
+### About
+
+I'm a full-stack developer with 4+ years of experience building practical web applications and digital products. I work primarily with the MERN stack and enjoy turning ideas into reliable, user-focused software.
+
+Currently studying Computer Science at the **University of Port Harcourt**.
+
+### Tech Stack
+
+- **Frontend:** React, Next.js, JavaScript, HTML, CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Figma, Trae
+
+### Selected Projects
+
+- **InfraPilot** — Construction project management and field reporting platform.
+- **TradePro** — Trading and portfolio management web application.
+- **Sendaa** — Email delivery platform.
+
+### What I'm focused on
+
+Building useful products, improving my engineering skills, and sharing what I learn along the way.
+
+---
+
+<div align="center">
+
+*Build. Learn. Improve.*
+
+</div>
+
+<!--- This is a special repository for the GitHub profile README. --->
